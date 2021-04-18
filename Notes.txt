@@ -1,0 +1,3 @@
+This is the example of svelte application with which has no routing means has no individual urls which points to the component of this app. 
+
+To see the routing example, look 'svelte-course-sapper' folder and run.
